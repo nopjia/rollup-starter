@@ -9,5 +9,6 @@ module.exports = {
     "no-unused-vars": ["error", { args: "none" }],
     "no-underscore-dangle": "off",
     "no-plusplus": "off",
+    "import/no-commonjs": "error",
   },
 };
